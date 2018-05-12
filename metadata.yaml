@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2037
     wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42968#The-Riddle-of-the-Universe-at-the-close-of-the-nineteenth-century
 gutenberg_issued: '2013-06-17'
 gutenberg_type: Text
 identifiers:
